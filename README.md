@@ -29,6 +29,10 @@
    * The program should now open, In order to use it click on run then run module.
    * You should now be able to use the program.
 
+## License
+
+Distributed under the GNU General Public License v3.0. See `COPYING.txt` for more information.
+
 ## Author
 
 🖥️ **John Dorman**
