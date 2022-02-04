@@ -31,7 +31,7 @@
 
 ## Author
 
-👤 **John Dorman**
+🖥️ **John Dorman**
 
 * Twitter: [@johndorman98](https://twitter.com/johndorman98)
 * Github: [@johnDorman98](https://github.com/johnDorman98)
