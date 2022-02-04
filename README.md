@@ -1,13 +1,14 @@
 # Welcome to Financal Calculator 👋
-[![Twitter: johndorman98](https://img.shields.io/twitter/follow/johndorman98.svg?style=social)](https://twitter.com/johndorman98)
 
 > This is a python program which is able to calculate simple and compound interest, As well as  bond repayments.
 
+## Features
+
+  * Calculate simple and compound intrest based on users inputs.
+
 ## Install
 
-```sh
-python install
-```
+
 
 ## Usage
 
